@@ -1,0 +1,7 @@
+{
+    "input_image": "https://s3.tost.ai/input/50f576c5-688a-4088-80a9-04d26c62e8a8.png",
+    "num_parts": 3,
+    "remove_bg": true,
+    "render": false,
+    "seed": 0
+}
