@@ -15,3 +15,5 @@ https://arxiv.org/abs/2506.05573
 https://wgsxm.github.io/projects/partcrafter/
 
 ### 🖼 Output
+
+<img width="816" height="398" alt="Image" src="https://github.com/user-attachments/assets/25ba059d-0c42-4e60-923d-4c9022359372" />
